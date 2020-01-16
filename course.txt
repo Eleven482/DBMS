@@ -1,0 +1,2 @@
+cno		cname		credit		
+1		Êý¾Ý¿â		4		

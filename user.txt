@@ -1,0 +1,6 @@
+用户姓名：admin 用户密码：admin 用户权限：写 true,读 true.具体权限： 创建--true, 插入--true, 删除--true, 更新--true, 筛选--true, 查看--true
+
+用户姓名：lq 用户密码：r 用户权限：写 false,读 true.具体权限： 创建--false, 插入--false, 删除--false, 更新--false, 筛选--true, 查看--true
+
+用户姓名：liqiang 用户密码：123 用户权限：写 true,读 true.具体权限： 创建--true, 插入--true, 删除--true, 更新--true, 筛选--true, 查看--true
+

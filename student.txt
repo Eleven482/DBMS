@@ -1,0 +1,8 @@
+sno		sname		sage		ssex		sdept		
+1061311		李开宇		19		女		CS		
+1061314		李强		18		女		MA		
+1061315		李仲意		19		男		IS		
+
+
+
+

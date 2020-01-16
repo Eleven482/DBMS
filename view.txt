@@ -1,0 +1,7 @@
+视图名:s
+视图定义语句：
+Create View s
+as
+Select sno,sname
+from student
+;

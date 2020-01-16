@@ -1,0 +1,12 @@
+表名：student	，共有5个属性
+字段名：sno	 字段类型：char(12)	约束条件:primary key	
+字段名：sname	 字段类型：char(12)	约束条件:unique	
+字段名：sage	 字段类型：int	
+字段名：ssex	 字段类型：char(2)	约束条件:not null	
+字段名：sdept	 字段类型：char(6)	约束条件:not null	
+
+表名：course	，共有3个属性
+字段名：cno	 字段类型：char(6)	约束条件:primary key	
+字段名：cname	 字段类型：char(20)	约束条件:not null	
+字段名：credit	 字段类型：int	约束条件:not null	
+
